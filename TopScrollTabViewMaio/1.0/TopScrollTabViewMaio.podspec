@@ -11,6 +11,4 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.source_files = [ "TopScrollTabViewTest/TSTview.{h,m}", "TopScrollTabViewTest/NSLayoutConstraint+Util.{h,m}" ]
-
-  s.module_name = 'TopScrollTabViewMaio'
 end
